@@ -1,4 +1,4 @@
-# Authentication bypass via flawed state machine
+# Inconsistent handling of exceptional input
 
 ![Lab9](/Nguyễn%20Xuân%20Hiếu/PortSwigger/Business%20Logic/Images/lab9_1.png "Lab9")
 
